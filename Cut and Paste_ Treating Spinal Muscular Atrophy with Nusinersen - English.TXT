@@ -1,0 +1,84 @@
+While RNA editing is critical for generating the hundreds of thousands of roteins that keep us alive, slicing errors can lead to devastating health problems.
+ویرایش RNA برای تولید صدها هزار پروتئین که ما را زنده نگه می‌دارند حیاتی است، اما خطاهای برش می‌تواند منجر به مشکلات جدی در سلامتی انسان شود.
+
+One example is an often fatal disease called spinal muscular atrophy or SMA.
+یک مصداق آن ، یک بیماری اغلب کشنده به نام آتروفی عضلانی-نخاعی (SMA) است.
+
+It's the number one genetic cause of infant death. 
+این بیماری ژنتیکی، عامل اول مرگ نوزادان است!
+
+
+
+
+
+
+
+SMA is caused by too little of a vital protein called survival of motor neuron or SMN in the spinal cords motor neurons.
+کمبود پروتئینی ضروری به نام «بقای عصب حرکتی (SMN)» در عصبهای های حرکتی نخاع ، موجب بیماری SMA می شود.
+
+Too little of this protein causes the motor neuron to die and the muscles that control to waste away.
+مقدار بسیار کم این پروتئین باعث می شود عصب حرکتی بمیرد و ماهیچه های کنترل کننده از بین بروند.
+
+The smn1 gene which produces the SMN protein, is missing or damaged beyond repair in SMA patient.
+ژن smn1 که پروتئین SMN را تولید می کند، در بیمار SMA از بین رفته یا آسیب دیده است.
+
+Humans have a second SMN producing gene called smn2 but this gene is a poor backup, because it produces very little functional SMN protein.
+انسان ها دارای ژن دومی به نام smn2 هستند که پروتئین SMN تولید می کند ، اما این ژن پشتیبانی ضعیفی دارد، زیرا پروتئین SMN کارآمد بسیار کمی تولید می کند.
+
+
+This efficiency stems from a mistake during RNA editing.
+این کارایی ناشی از اشتباه در ویرایش RNA است.
+
+Remember that's the process of forming a coherent are any message that removing the gibberish letters or in trunk.
+به یاد داشته باشید که فرآیند تشکیل یک پیام منسجم است که حروف نامفهوم یا در تنه را حذف می کند.
+
+But what is this mistake and how does it cause SMA ?
+اما این اشتباه چیست و چگونه باعث SMA می شود؟
+
+Let's say the SMN gene generates RNA copies made up of introns and exons like this.
+فرض کنید ژن SMN کپی های RNA متشکل از اینترون ها و اگزون ها را تولید می کند.
+
+
+
+Normal RNA splicing will delete the intron the gibberish letters in blue and leave only the exons the red letters generating the following message : 
+اتصال معمولی RNA باعث حذف اینترون حروف نامفهوم به رنگ آبی می شود و فقط اگزون ها و حروف قرمز رنگ پیام زیر را ایجاد می کنند:
+
+draw a big house on the corner of the wide Street.
+یک خانه بزرگ در گوشه خیابان پهن بکش
+
+
+In SMA it turns out that during RNA splicing the 7th exon of smn2 is skipped by the machinery that edits RNA.
+در SMA معلوم می شود که در حین اتصال RNA، اگزون هفتم smn2 توسط ماشینی که RNA را ویرایش می کند نادیده گرفته می شود.
+
+Skipping of exon 7 generates a faulty message draw a big house on the of the wide Street.
+رد شدن از اگزون 7 یک پیام معیوب ایجاد می کند که خانه بزرگی را در خیابان عریض بکشید.
+
+
+Just like removing word number seven in the sentence leads to a statement that makes no sense removing exon 7 in the RNA results in a defective protein.
+درست مانند حذف کلمه شماره هفت در جمله منجر به بیانیه ای می شود که معنی ندارد حذف اگزون 7 در RNA منجر به پروتئین معیوب می شود.
+
+
+Remember that SMA patients have to rely solely on the smn2 gene to produce the survival of motor neuron protein but due to exon skipping not enough usable protein is made to support normal muscle development.
+به یاد داشته باشید که بیماران SMA برای تولید بقای پروتئین نورون حرکتی باید تنها به ژن smn2 تکیه کنند، اما به دلیل پرش اگزون، پروتئین قابل استفاده کافی برای حمایت از رشد طبیعی عضلات ساخته نمی شود.
+
+Infants born with the most severe form of SMA, often don't make it to the second birthday.
+نوزادانی که با شدیدترین شکل SMA متولد می شوند، اغلب به دومین سالگرد تولد نمی رسند.
+
+But researchers have been studying how to fix this placing problem.
+اما محققان در حال بررسی چگونگی رفع این مشکل قرار دادن هستند.
+
+One solution is called NUSINERSEN. it enables SMA patients to make more SMN protein. but how NUSINERSEN is a short sequence of RNA that binds just after exon 7 in the end edited RNA message.
+یک راه حل NUSINERSEN نام دارد. بیماران SMA را قادر می سازد تا پروتئین SMN بیشتری بسازند. اما چگونه NUSINERSEN یک دنباله کوتاه از RNA است که دقیقاً پس از اگزون 7 در پیام RNA ویرایش شده نهایی متصل می شود.
+
+
+This tiny piece of RNA prevents exon 7 from being skipped.
+این قطعه کوچک RNA از رد شدن اگزون 7 جلوگیری می کند.
+
+It is called an antisense oligonucleotides or ASO.
+به آن الیگونوکلئوتیدهای آنتی سنس یا ASO می گویند.
+
+Exon 7 is now included in the edited RNA message, which in turn generates full-length functional SMN protein.
+اگزون 7 اکنون در پیام RNA ویرایش شده گنجانده شده است، که به نوبه خود پروتئین SMN عملکردی تمام قد را تولید می کند.
+
+By preventing exon 7 from being skipped NUSINERSEN reverses symptoms in SMA patients
+ـNUSINERSEN با جلوگیری از حذف اگزون 7 علائم را در بیماران SMA معکوس می کند
